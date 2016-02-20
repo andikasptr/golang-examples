@@ -453,3 +453,4 @@ Under the following terms:
 
 **No additional restrictions** — You may not apply legal terms or **technological measures** that legally restrict others from doing anything the license permits.
 
+**Di-fork oleh Andika Saputra tanggal 20 Febuari 2016
